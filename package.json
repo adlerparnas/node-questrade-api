@@ -1,0 +1,27 @@
+{
+  "name": "node-questrade-api",
+  "version": "1.0.0",
+  "description": "Node library to access Questrade API",
+  "main": "questrade-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adlerparnas/node-questrade-api.git"
+  },
+  "keywords": [
+    "questrade",
+    "api"
+  ],
+  "author": "Adler Parnas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adlerparnas/node-questrade-api/issues"
+  },
+  "homepage": "https://github.com/adlerparnas/node-questrade-api",
+  "dependencies": {
+    "q": "^1.4.1",
+    "querystring": "^0.2.0"
+  }
+}
